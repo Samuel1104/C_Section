@@ -3,6 +3,9 @@
  * Released under the Vegas Public License.
  * (c) 2014 The College Blackjack Team.
  * pg 37 (Head First C)
+ * This code uses switch statement and while loop.
+ * And it includes a new entry X, 
+ * that tells when the game has ended and we should exit the program.
  */
 
 #include <stdio.h>
