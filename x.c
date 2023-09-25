@@ -11,5 +11,10 @@ int main()
 
 	int *address_of_x = &x;
 	printf("%d\n", *address_of_x);
+
+	int value_stored = *address_of_x;
+	printf("Value is %i\n", value_stored);
+	printf("Address is %p\n", &value_stored);
+	/* & Finds address of variable, * finds value of variable */
 	return 0;
 }
