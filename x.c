@@ -1,5 +1,6 @@
 /* To try how to find where a variable is stored in memory using the & operator.
  * To store the address with a pointer variable.
+ *pg 48, chapter 2 (Memory and Pointers)
  */
 
 #include <stdio.h>
